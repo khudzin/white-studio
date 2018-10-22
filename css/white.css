@@ -51,7 +51,7 @@ body {margin: 0; padding: 0;  font-family: 'Open Sans Condensed', sans-serif; fo
         	-moz-animation-delay: -2s;
         	-ms-animation-delay: -2s;
         	animation-delay: -2s; 
-        	background-image: url(../img/slide1.JPG);
+        	background-image: url(../img/slide1.jpg);
         	background-position: 0% 100%; 
         	background-size: cover; 
         	background-position: center;}
@@ -61,7 +61,7 @@ body {margin: 0; padding: 0;  font-family: 'Open Sans Condensed', sans-serif; fo
         	-moz-animation-delay: 2s;
         	-ms-animation-delay: 2s;
         	animation-delay: 2s; 
-        	background-image: url(../img/slide2.JPG);
+        	background-image: url(../img/slide2.jpg);
         	background-position: center; 
         	background-size: cover; 
         	background-position: center;}
